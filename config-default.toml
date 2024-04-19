@@ -1,0 +1,4 @@
+[default]
+hypervisor = ''
+packer_path = ''
+output_path = ''
